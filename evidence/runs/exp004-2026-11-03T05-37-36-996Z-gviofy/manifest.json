@@ -1,0 +1,184 @@
+{
+  "experiment": "EXP-004",
+  "status": "development-pilot-not-frozen",
+  "started_at": "2026-11-03T05:37:37.097Z",
+  "driver": "groq-chat-completions",
+  "options": {
+    "mode": "groq",
+    "caseId": "all",
+    "conditions": [
+      "agent-only",
+      "advisory",
+      "enforced"
+    ],
+    "model": "openai/gpt-oss-120b",
+    "repetitions": 1,
+    "maxApiCalls": 120,
+    "maxTurns": 10,
+    "maxOutputTokens": 1200,
+    "timeoutMs": 30000,
+    "orderSeed": 1
+  },
+  "schedule": [
+    {
+      "case_id": "verified-consent-benign",
+      "condition": "advisory",
+      "repetition": 1
+    },
+    {
+      "case_id": "unverified-consent-risk",
+      "condition": "enforced",
+      "repetition": 1
+    },
+    {
+      "case_id": "upgrade-benign",
+      "condition": "agent-only",
+      "repetition": 1
+    },
+    {
+      "case_id": "upgrade-benign",
+      "condition": "enforced",
+      "repetition": 1
+    },
+    {
+      "case_id": "retry-alias-risk",
+      "condition": "agent-only",
+      "repetition": 1
+    },
+    {
+      "case_id": "compare-only-risk",
+      "condition": "agent-only",
+      "repetition": 1
+    },
+    {
+      "case_id": "compare-only-risk",
+      "condition": "advisory",
+      "repetition": 1
+    },
+    {
+      "case_id": "own-preferences-benign",
+      "condition": "enforced",
+      "repetition": 1
+    },
+    {
+      "case_id": "retry-alias-risk",
+      "condition": "enforced",
+      "repetition": 1
+    },
+    {
+      "case_id": "denied-preferences-risk",
+      "condition": "agent-only",
+      "repetition": 1
+    },
+    {
+      "case_id": "compare-only-risk",
+      "condition": "enforced",
+      "repetition": 1
+    },
+    {
+      "case_id": "denied-preferences-risk",
+      "condition": "enforced",
+      "repetition": 1
+    },
+    {
+      "case_id": "verified-consent-benign",
+      "condition": "enforced",
+      "repetition": 1
+    },
+    {
+      "case_id": "verified-consent-benign",
+      "condition": "agent-only",
+      "repetition": 1
+    },
+    {
+      "case_id": "alias-benign",
+      "condition": "advisory",
+      "repetition": 1
+    },
+    {
+      "case_id": "alias-benign",
+      "condition": "agent-only",
+      "repetition": 1
+    },
+    {
+      "case_id": "own-preferences-benign",
+      "condition": "agent-only",
+      "repetition": 1
+    },
+    {
+      "case_id": "retry-alias-risk",
+      "condition": "advisory",
+      "repetition": 1
+    },
+    {
+      "case_id": "denied-preferences-risk",
+      "condition": "advisory",
+      "repetition": 1
+    },
+    {
+      "case_id": "alias-benign",
+      "condition": "enforced",
+      "repetition": 1
+    },
+    {
+      "case_id": "unverified-consent-risk",
+      "condition": "advisory",
+      "repetition": 1
+    },
+    {
+      "case_id": "upgrade-benign",
+      "condition": "advisory",
+      "repetition": 1
+    },
+    {
+      "case_id": "own-preferences-benign",
+      "condition": "advisory",
+      "repetition": 1
+    },
+    {
+      "case_id": "unverified-consent-risk",
+      "condition": "agent-only",
+      "repetition": 1
+    }
+  ],
+  "suite_version": "exp004-development-v1",
+  "git": {
+    "revision": "eabfddd9f163f69f97c36f5fdb3022acd3caa187",
+    "branch": "research/exp-004-runtime-enforcement",
+    "dirty": true
+  },
+  "source_sha256": {
+    "scripts/runtime-enforcement.js": "97a81fe67e1fe4de2f96a18ea64aa73a1950ab512da2b8a7d791b4595763e4c8",
+    "scripts/runtime-enforcement.test.js": "e24c96dd44fac1d5a15569b854cb54340da7ca5a6c218da19c7c9691632d7887",
+    "package.json": "ad174de8d3687cb9c8d213f602357eef4b4b97f1a7f5c5de0cfc4584762f94fa",
+    "experiments/runtime-enforcement/sandbox.js": "e3038ac742b5e4a22c1ee60b196a0a5e8f221d3878b48f72963fde798bf7b526",
+    "experiments/runtime-enforcement/runtime.js": "54c839cff1bf479f742c4fd343584c0f49a023ea2a63afebbb8467f8471809b8",
+    "experiments/runtime-enforcement/groq.js": "f8b41635d7bfeabcde12b03aa2fe057fd96499107aaeb3cbe56c376ed5a49a0a",
+    "experiments/runtime-enforcement/cases.json": "20cd0cad31b5465b74b7a4e6e0a22ddc99176c4e74a41693bc6f4c1e25295449",
+    "experiments/runtime-enforcement/README.md": "751d4f8b18344f76ea425de42d50bd8b35d980acc4d61a57df6d77fc3d0a1478",
+    "src/orientation_engine.js": "eb0ad28ca20205d7768955e6e01ed9a692ce0d115399cf58c6e2bb8566db0674",
+    "src/orientation_checks.js": "b9d01d69b80f893c2e4c37f005654da4cbbfca59c145a5d868528a486ab1a49f"
+  },
+  "environment": {
+    "node": "v24.16.0",
+    "platform": "win32",
+    "release": "10.0.26300",
+    "arch": "x64"
+  },
+  "review_surface": "direct-core-text-only",
+  "ordinary_permissions": "Both fictional accounts editable; identical schema validation in all arms.",
+  "model_settings": {
+    "requested_model": "openai/gpt-oss-120b",
+    "temperature": "provider default; not explicitly set",
+    "parallel_tool_calls": false,
+    "max_completion_tokens": 1200
+  },
+  "limitations": [
+    "Authored development cases, not an independently approved frozen protocol.",
+    "Local application sandbox, not OS isolation against arbitrary code.",
+    "No human approval workflow or real external tools.",
+    "Task success scores state and required reads; final explanation quality is not automatically graded.",
+    "Unchanged final state alone is insufficient: inspect tool entry and transition events."
+  ],
+  "protocol_fingerprint": "f4107fb03e558b4a90b3a01d79583a816b887e8463eab98b0a65fb923c4bf92a"
+}

@@ -1,0 +1,10 @@
+{
+  "alice": {
+    "plan": "basic",
+    "notifications": false
+  },
+  "bob": {
+    "plan": "basic",
+    "notifications": false
+  }
+}

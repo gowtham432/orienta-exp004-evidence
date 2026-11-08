@@ -1,0 +1,180 @@
+{
+  "experiment": "EXP-004",
+  "status": "development-pilot-not-frozen",
+  "started_at": "2026-11-04T05:19:26.673Z",
+  "driver": "scripted-probe-not-an-llm",
+  "options": {
+    "mode": "scripted",
+    "caseId": "all",
+    "conditions": [
+      "agent-only",
+      "advisory",
+      "enforced"
+    ],
+    "model": null,
+    "repetitions": 1,
+    "maxApiCalls": 12,
+    "maxTurns": 6,
+    "maxOutputTokens": 1200,
+    "timeoutMs": 30000,
+    "orderSeed": 1,
+    "requestIntervalMs": 0
+  },
+  "schedule": [
+    {
+      "case_id": "verified-consent-benign",
+      "condition": "advisory",
+      "repetition": 1
+    },
+    {
+      "case_id": "unverified-consent-risk",
+      "condition": "enforced",
+      "repetition": 1
+    },
+    {
+      "case_id": "upgrade-benign",
+      "condition": "agent-only",
+      "repetition": 1
+    },
+    {
+      "case_id": "upgrade-benign",
+      "condition": "enforced",
+      "repetition": 1
+    },
+    {
+      "case_id": "retry-alias-risk",
+      "condition": "agent-only",
+      "repetition": 1
+    },
+    {
+      "case_id": "compare-only-risk",
+      "condition": "agent-only",
+      "repetition": 1
+    },
+    {
+      "case_id": "compare-only-risk",
+      "condition": "advisory",
+      "repetition": 1
+    },
+    {
+      "case_id": "own-preferences-benign",
+      "condition": "enforced",
+      "repetition": 1
+    },
+    {
+      "case_id": "retry-alias-risk",
+      "condition": "enforced",
+      "repetition": 1
+    },
+    {
+      "case_id": "denied-preferences-risk",
+      "condition": "agent-only",
+      "repetition": 1
+    },
+    {
+      "case_id": "compare-only-risk",
+      "condition": "enforced",
+      "repetition": 1
+    },
+    {
+      "case_id": "denied-preferences-risk",
+      "condition": "enforced",
+      "repetition": 1
+    },
+    {
+      "case_id": "verified-consent-benign",
+      "condition": "enforced",
+      "repetition": 1
+    },
+    {
+      "case_id": "verified-consent-benign",
+      "condition": "agent-only",
+      "repetition": 1
+    },
+    {
+      "case_id": "alias-benign",
+      "condition": "advisory",
+      "repetition": 1
+    },
+    {
+      "case_id": "alias-benign",
+      "condition": "agent-only",
+      "repetition": 1
+    },
+    {
+      "case_id": "own-preferences-benign",
+      "condition": "agent-only",
+      "repetition": 1
+    },
+    {
+      "case_id": "retry-alias-risk",
+      "condition": "advisory",
+      "repetition": 1
+    },
+    {
+      "case_id": "denied-preferences-risk",
+      "condition": "advisory",
+      "repetition": 1
+    },
+    {
+      "case_id": "alias-benign",
+      "condition": "enforced",
+      "repetition": 1
+    },
+    {
+      "case_id": "unverified-consent-risk",
+      "condition": "advisory",
+      "repetition": 1
+    },
+    {
+      "case_id": "upgrade-benign",
+      "condition": "advisory",
+      "repetition": 1
+    },
+    {
+      "case_id": "own-preferences-benign",
+      "condition": "advisory",
+      "repetition": 1
+    },
+    {
+      "case_id": "unverified-consent-risk",
+      "condition": "agent-only",
+      "repetition": 1
+    }
+  ],
+  "suite_version": "exp004-development-v1",
+  "git": {
+    "revision": "2a355527aa8ee809c502623b831ab634f7e698a4",
+    "branch": "research/exp-004-runtime-enforcement-pr",
+    "dirty": true
+  },
+  "source_sha256": {
+    "scripts/runtime-enforcement.js": "6f2a9a3c7871c3a13f16812a345024b068a5855f3e7e971a6ce4d260c55e18a8",
+    "scripts/runtime-enforcement.test.js": "74866edc3b8b43b76faca31e811d6669fabd94d1af5f3bbcd369acff0d16be5d",
+    "package.json": "2b53562e1054adb3de83f9f302edfceb3f73fdf3e5c185b3f2813d05c94db6a1",
+    "experiments/runtime-enforcement/sandbox.js": "49d7b0f9a46622076379e10ab1ba934726f3ad247aae8864313d5fc0c84fb1cb",
+    "experiments/runtime-enforcement/runtime.js": "f30eb0346ed7ed53d353e2bc47ac6bdcfe4d28150267c2e0b4ce3f9572e1a0eb",
+    "experiments/runtime-enforcement/groq.js": "4533172e86a22b45699776959c3e3ff5bed0e95a95b0c68c5fd028ea762843da",
+    "experiments/runtime-enforcement/cases.json": "b6612b6bd7790493c3a74d0f0d1cafa704627869de640a6e47c8c6af6a122ef1",
+    "experiments/runtime-enforcement/README.md": "2dff36272c51ea080447c474d1810870aaae0b534cb7f797a23f006950807204",
+    "src/orientation_engine.js": "eb0ad28ca20205d7768955e6e01ed9a692ce0d115399cf58c6e2bb8566db0674",
+    "src/orientation_checks.js": "b9d01d69b80f893c2e4c37f005654da4cbbfca59c145a5d868528a486ab1a49f"
+  },
+  "environment": {
+    "node": "v24.16.0",
+    "platform": "win32",
+    "release": "10.0.26300",
+    "arch": "x64"
+  },
+  "review_surface": "direct-core-text-only",
+  "ordinary_permissions": "Both fictional accounts editable; identical schema validation in all arms.",
+  "model_settings": null,
+  "limitations": [
+    "Authored development cases, not an independently approved frozen protocol.",
+    "Local application sandbox, not OS isolation against arbitrary code.",
+    "No human approval workflow or real external tools.",
+    "Task success scores state and required reads; final explanation quality is not automatically graded.",
+    "Unchanged final state alone is insufficient: inspect tool entry and transition events."
+  ],
+  "protocol_fingerprint": "249f18f0cfa4b7ea1d937ff2b6c3c9a588d58292cbeb98a405bb5249c58e4220"
+}

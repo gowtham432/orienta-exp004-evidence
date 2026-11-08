@@ -1,0 +1,286 @@
+{
+  "pr_commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+  "note": "Historical runs preserve their original dirty-worktree manifests; they are not relabelled as runs of the later PR commit. Byte hashes, including line-ending differences, are compared without normalization.",
+  "comparisons": [
+    {
+      "run": "exp004-2026-11-03T05-37-36-996Z-gviofy",
+      "source": "scripts/runtime-enforcement.js",
+      "recorded_sha256": "97a81fe67e1fe4de2f96a18ea64aa73a1950ab512da2b8a7d791b4595763e4c8",
+      "pr_sha256": "ec6c44297d08c6a8591c7a0bdf34a19f5ac03365d53be2053c5e0290bcb5b0d0",
+      "same_bytes_as_pr": false
+    },
+    {
+      "run": "exp004-2026-11-03T05-37-36-996Z-gviofy",
+      "source": "scripts/runtime-enforcement.test.js",
+      "recorded_sha256": "e24c96dd44fac1d5a15569b854cb54340da7ca5a6c218da19c7c9691632d7887",
+      "pr_sha256": "28785689e461d537a71b410613fa28aa94bfc71ee6f72e81a3cc46f2b23f03b3",
+      "same_bytes_as_pr": false
+    },
+    {
+      "run": "exp004-2026-11-03T05-37-36-996Z-gviofy",
+      "source": "package.json",
+      "recorded_sha256": "ad174de8d3687cb9c8d213f602357eef4b4b97f1a7f5c5de0cfc4584762f94fa",
+      "pr_sha256": "5c90b0a9918d32159d541c3cff464fdade5d546424f78d679df6758092e39ff3",
+      "same_bytes_as_pr": false
+    },
+    {
+      "run": "exp004-2026-11-03T05-37-36-996Z-gviofy",
+      "source": "experiments/runtime-enforcement/sandbox.js",
+      "recorded_sha256": "e3038ac742b5e4a22c1ee60b196a0a5e8f221d3878b48f72963fde798bf7b526",
+      "pr_sha256": "e3038ac742b5e4a22c1ee60b196a0a5e8f221d3878b48f72963fde798bf7b526",
+      "same_bytes_as_pr": true
+    },
+    {
+      "run": "exp004-2026-11-03T05-37-36-996Z-gviofy",
+      "source": "experiments/runtime-enforcement/runtime.js",
+      "recorded_sha256": "54c839cff1bf479f742c4fd343584c0f49a023ea2a63afebbb8467f8471809b8",
+      "pr_sha256": "54c839cff1bf479f742c4fd343584c0f49a023ea2a63afebbb8467f8471809b8",
+      "same_bytes_as_pr": true
+    },
+    {
+      "run": "exp004-2026-11-03T05-37-36-996Z-gviofy",
+      "source": "experiments/runtime-enforcement/groq.js",
+      "recorded_sha256": "f8b41635d7bfeabcde12b03aa2fe057fd96499107aaeb3cbe56c376ed5a49a0a",
+      "pr_sha256": "84ccb0f38196bf980e6e5f493c875b5c01ee59b184139827ec916afc8d104a70",
+      "same_bytes_as_pr": false
+    },
+    {
+      "run": "exp004-2026-11-03T05-37-36-996Z-gviofy",
+      "source": "experiments/runtime-enforcement/cases.json",
+      "recorded_sha256": "20cd0cad31b5465b74b7a4e6e0a22ddc99176c4e74a41693bc6f4c1e25295449",
+      "pr_sha256": "20cd0cad31b5465b74b7a4e6e0a22ddc99176c4e74a41693bc6f4c1e25295449",
+      "same_bytes_as_pr": true
+    },
+    {
+      "run": "exp004-2026-11-03T05-37-36-996Z-gviofy",
+      "source": "experiments/runtime-enforcement/README.md",
+      "recorded_sha256": "751d4f8b18344f76ea425de42d50bd8b35d980acc4d61a57df6d77fc3d0a1478",
+      "pr_sha256": "0f0f6b2e76fb12fb55ae993e3c178e9fe8d8cbbb0cdc752a27a26245fb1b3ebf",
+      "same_bytes_as_pr": false
+    },
+    {
+      "run": "exp004-2026-11-03T05-37-36-996Z-gviofy",
+      "source": "src/orientation_engine.js",
+      "recorded_sha256": "eb0ad28ca20205d7768955e6e01ed9a692ce0d115399cf58c6e2bb8566db0674",
+      "pr_sha256": "5453495555b5da9854299343f44508b698d21dbe1f3540d54a9b81e22695370b",
+      "same_bytes_as_pr": false
+    },
+    {
+      "run": "exp004-2026-11-03T05-37-36-996Z-gviofy",
+      "source": "src/orientation_checks.js",
+      "recorded_sha256": "b9d01d69b80f893c2e4c37f005654da4cbbfca59c145a5d868528a486ab1a49f",
+      "pr_sha256": "ff4a932694ba9dc3b10d0a18fedcdc5a3477b2c4d675b7c792b5b445e8343a7b",
+      "same_bytes_as_pr": false
+    },
+    {
+      "run": "exp004-2026-11-03T05-39-21-173Z-iNXS86",
+      "source": "scripts/runtime-enforcement.js",
+      "recorded_sha256": "ec6c44297d08c6a8591c7a0bdf34a19f5ac03365d53be2053c5e0290bcb5b0d0",
+      "pr_sha256": "ec6c44297d08c6a8591c7a0bdf34a19f5ac03365d53be2053c5e0290bcb5b0d0",
+      "same_bytes_as_pr": true
+    },
+    {
+      "run": "exp004-2026-11-03T05-39-21-173Z-iNXS86",
+      "source": "scripts/runtime-enforcement.test.js",
+      "recorded_sha256": "28785689e461d537a71b410613fa28aa94bfc71ee6f72e81a3cc46f2b23f03b3",
+      "pr_sha256": "28785689e461d537a71b410613fa28aa94bfc71ee6f72e81a3cc46f2b23f03b3",
+      "same_bytes_as_pr": true
+    },
+    {
+      "run": "exp004-2026-11-03T05-39-21-173Z-iNXS86",
+      "source": "package.json",
+      "recorded_sha256": "ad174de8d3687cb9c8d213f602357eef4b4b97f1a7f5c5de0cfc4584762f94fa",
+      "pr_sha256": "5c90b0a9918d32159d541c3cff464fdade5d546424f78d679df6758092e39ff3",
+      "same_bytes_as_pr": false
+    },
+    {
+      "run": "exp004-2026-11-03T05-39-21-173Z-iNXS86",
+      "source": "experiments/runtime-enforcement/sandbox.js",
+      "recorded_sha256": "e3038ac742b5e4a22c1ee60b196a0a5e8f221d3878b48f72963fde798bf7b526",
+      "pr_sha256": "e3038ac742b5e4a22c1ee60b196a0a5e8f221d3878b48f72963fde798bf7b526",
+      "same_bytes_as_pr": true
+    },
+    {
+      "run": "exp004-2026-11-03T05-39-21-173Z-iNXS86",
+      "source": "experiments/runtime-enforcement/runtime.js",
+      "recorded_sha256": "54c839cff1bf479f742c4fd343584c0f49a023ea2a63afebbb8467f8471809b8",
+      "pr_sha256": "54c839cff1bf479f742c4fd343584c0f49a023ea2a63afebbb8467f8471809b8",
+      "same_bytes_as_pr": true
+    },
+    {
+      "run": "exp004-2026-11-03T05-39-21-173Z-iNXS86",
+      "source": "experiments/runtime-enforcement/groq.js",
+      "recorded_sha256": "84ccb0f38196bf980e6e5f493c875b5c01ee59b184139827ec916afc8d104a70",
+      "pr_sha256": "84ccb0f38196bf980e6e5f493c875b5c01ee59b184139827ec916afc8d104a70",
+      "same_bytes_as_pr": true
+    },
+    {
+      "run": "exp004-2026-11-03T05-39-21-173Z-iNXS86",
+      "source": "experiments/runtime-enforcement/cases.json",
+      "recorded_sha256": "20cd0cad31b5465b74b7a4e6e0a22ddc99176c4e74a41693bc6f4c1e25295449",
+      "pr_sha256": "20cd0cad31b5465b74b7a4e6e0a22ddc99176c4e74a41693bc6f4c1e25295449",
+      "same_bytes_as_pr": true
+    },
+    {
+      "run": "exp004-2026-11-03T05-39-21-173Z-iNXS86",
+      "source": "experiments/runtime-enforcement/README.md",
+      "recorded_sha256": "0f0f6b2e76fb12fb55ae993e3c178e9fe8d8cbbb0cdc752a27a26245fb1b3ebf",
+      "pr_sha256": "0f0f6b2e76fb12fb55ae993e3c178e9fe8d8cbbb0cdc752a27a26245fb1b3ebf",
+      "same_bytes_as_pr": true
+    },
+    {
+      "run": "exp004-2026-11-03T05-39-21-173Z-iNXS86",
+      "source": "src/orientation_engine.js",
+      "recorded_sha256": "eb0ad28ca20205d7768955e6e01ed9a692ce0d115399cf58c6e2bb8566db0674",
+      "pr_sha256": "5453495555b5da9854299343f44508b698d21dbe1f3540d54a9b81e22695370b",
+      "same_bytes_as_pr": false
+    },
+    {
+      "run": "exp004-2026-11-03T05-39-21-173Z-iNXS86",
+      "source": "src/orientation_checks.js",
+      "recorded_sha256": "b9d01d69b80f893c2e4c37f005654da4cbbfca59c145a5d868528a486ab1a49f",
+      "pr_sha256": "ff4a932694ba9dc3b10d0a18fedcdc5a3477b2c4d675b7c792b5b445e8343a7b",
+      "same_bytes_as_pr": false
+    },
+    {
+      "run": "exp004-2026-11-03T07-06-08-795Z-7NtJS2",
+      "source": "scripts/runtime-enforcement.js",
+      "recorded_sha256": "ec6c44297d08c6a8591c7a0bdf34a19f5ac03365d53be2053c5e0290bcb5b0d0",
+      "pr_sha256": "ec6c44297d08c6a8591c7a0bdf34a19f5ac03365d53be2053c5e0290bcb5b0d0",
+      "same_bytes_as_pr": true
+    },
+    {
+      "run": "exp004-2026-11-03T07-06-08-795Z-7NtJS2",
+      "source": "scripts/runtime-enforcement.test.js",
+      "recorded_sha256": "28785689e461d537a71b410613fa28aa94bfc71ee6f72e81a3cc46f2b23f03b3",
+      "pr_sha256": "28785689e461d537a71b410613fa28aa94bfc71ee6f72e81a3cc46f2b23f03b3",
+      "same_bytes_as_pr": true
+    },
+    {
+      "run": "exp004-2026-11-03T07-06-08-795Z-7NtJS2",
+      "source": "package.json",
+      "recorded_sha256": "ad174de8d3687cb9c8d213f602357eef4b4b97f1a7f5c5de0cfc4584762f94fa",
+      "pr_sha256": "5c90b0a9918d32159d541c3cff464fdade5d546424f78d679df6758092e39ff3",
+      "same_bytes_as_pr": false
+    },
+    {
+      "run": "exp004-2026-11-03T07-06-08-795Z-7NtJS2",
+      "source": "experiments/runtime-enforcement/sandbox.js",
+      "recorded_sha256": "e3038ac742b5e4a22c1ee60b196a0a5e8f221d3878b48f72963fde798bf7b526",
+      "pr_sha256": "e3038ac742b5e4a22c1ee60b196a0a5e8f221d3878b48f72963fde798bf7b526",
+      "same_bytes_as_pr": true
+    },
+    {
+      "run": "exp004-2026-11-03T07-06-08-795Z-7NtJS2",
+      "source": "experiments/runtime-enforcement/runtime.js",
+      "recorded_sha256": "54c839cff1bf479f742c4fd343584c0f49a023ea2a63afebbb8467f8471809b8",
+      "pr_sha256": "54c839cff1bf479f742c4fd343584c0f49a023ea2a63afebbb8467f8471809b8",
+      "same_bytes_as_pr": true
+    },
+    {
+      "run": "exp004-2026-11-03T07-06-08-795Z-7NtJS2",
+      "source": "experiments/runtime-enforcement/groq.js",
+      "recorded_sha256": "84ccb0f38196bf980e6e5f493c875b5c01ee59b184139827ec916afc8d104a70",
+      "pr_sha256": "84ccb0f38196bf980e6e5f493c875b5c01ee59b184139827ec916afc8d104a70",
+      "same_bytes_as_pr": true
+    },
+    {
+      "run": "exp004-2026-11-03T07-06-08-795Z-7NtJS2",
+      "source": "experiments/runtime-enforcement/cases.json",
+      "recorded_sha256": "20cd0cad31b5465b74b7a4e6e0a22ddc99176c4e74a41693bc6f4c1e25295449",
+      "pr_sha256": "20cd0cad31b5465b74b7a4e6e0a22ddc99176c4e74a41693bc6f4c1e25295449",
+      "same_bytes_as_pr": true
+    },
+    {
+      "run": "exp004-2026-11-03T07-06-08-795Z-7NtJS2",
+      "source": "experiments/runtime-enforcement/README.md",
+      "recorded_sha256": "0f0f6b2e76fb12fb55ae993e3c178e9fe8d8cbbb0cdc752a27a26245fb1b3ebf",
+      "pr_sha256": "0f0f6b2e76fb12fb55ae993e3c178e9fe8d8cbbb0cdc752a27a26245fb1b3ebf",
+      "same_bytes_as_pr": true
+    },
+    {
+      "run": "exp004-2026-11-03T07-06-08-795Z-7NtJS2",
+      "source": "src/orientation_engine.js",
+      "recorded_sha256": "eb0ad28ca20205d7768955e6e01ed9a692ce0d115399cf58c6e2bb8566db0674",
+      "pr_sha256": "5453495555b5da9854299343f44508b698d21dbe1f3540d54a9b81e22695370b",
+      "same_bytes_as_pr": false
+    },
+    {
+      "run": "exp004-2026-11-03T07-06-08-795Z-7NtJS2",
+      "source": "src/orientation_checks.js",
+      "recorded_sha256": "b9d01d69b80f893c2e4c37f005654da4cbbfca59c145a5d868528a486ab1a49f",
+      "pr_sha256": "ff4a932694ba9dc3b10d0a18fedcdc5a3477b2c4d675b7c792b5b445e8343a7b",
+      "same_bytes_as_pr": false
+    },
+    {
+      "run": "exp004-2026-11-03T05-39-31-545Z-fI8S8H",
+      "source": "scripts/runtime-enforcement.js",
+      "recorded_sha256": "ec6c44297d08c6a8591c7a0bdf34a19f5ac03365d53be2053c5e0290bcb5b0d0",
+      "pr_sha256": "ec6c44297d08c6a8591c7a0bdf34a19f5ac03365d53be2053c5e0290bcb5b0d0",
+      "same_bytes_as_pr": true
+    },
+    {
+      "run": "exp004-2026-11-03T05-39-31-545Z-fI8S8H",
+      "source": "scripts/runtime-enforcement.test.js",
+      "recorded_sha256": "28785689e461d537a71b410613fa28aa94bfc71ee6f72e81a3cc46f2b23f03b3",
+      "pr_sha256": "28785689e461d537a71b410613fa28aa94bfc71ee6f72e81a3cc46f2b23f03b3",
+      "same_bytes_as_pr": true
+    },
+    {
+      "run": "exp004-2026-11-03T05-39-31-545Z-fI8S8H",
+      "source": "package.json",
+      "recorded_sha256": "ad174de8d3687cb9c8d213f602357eef4b4b97f1a7f5c5de0cfc4584762f94fa",
+      "pr_sha256": "5c90b0a9918d32159d541c3cff464fdade5d546424f78d679df6758092e39ff3",
+      "same_bytes_as_pr": false
+    },
+    {
+      "run": "exp004-2026-11-03T05-39-31-545Z-fI8S8H",
+      "source": "experiments/runtime-enforcement/sandbox.js",
+      "recorded_sha256": "e3038ac742b5e4a22c1ee60b196a0a5e8f221d3878b48f72963fde798bf7b526",
+      "pr_sha256": "e3038ac742b5e4a22c1ee60b196a0a5e8f221d3878b48f72963fde798bf7b526",
+      "same_bytes_as_pr": true
+    },
+    {
+      "run": "exp004-2026-11-03T05-39-31-545Z-fI8S8H",
+      "source": "experiments/runtime-enforcement/runtime.js",
+      "recorded_sha256": "54c839cff1bf479f742c4fd343584c0f49a023ea2a63afebbb8467f8471809b8",
+      "pr_sha256": "54c839cff1bf479f742c4fd343584c0f49a023ea2a63afebbb8467f8471809b8",
+      "same_bytes_as_pr": true
+    },
+    {
+      "run": "exp004-2026-11-03T05-39-31-545Z-fI8S8H",
+      "source": "experiments/runtime-enforcement/groq.js",
+      "recorded_sha256": "84ccb0f38196bf980e6e5f493c875b5c01ee59b184139827ec916afc8d104a70",
+      "pr_sha256": "84ccb0f38196bf980e6e5f493c875b5c01ee59b184139827ec916afc8d104a70",
+      "same_bytes_as_pr": true
+    },
+    {
+      "run": "exp004-2026-11-03T05-39-31-545Z-fI8S8H",
+      "source": "experiments/runtime-enforcement/cases.json",
+      "recorded_sha256": "20cd0cad31b5465b74b7a4e6e0a22ddc99176c4e74a41693bc6f4c1e25295449",
+      "pr_sha256": "20cd0cad31b5465b74b7a4e6e0a22ddc99176c4e74a41693bc6f4c1e25295449",
+      "same_bytes_as_pr": true
+    },
+    {
+      "run": "exp004-2026-11-03T05-39-31-545Z-fI8S8H",
+      "source": "experiments/runtime-enforcement/README.md",
+      "recorded_sha256": "0f0f6b2e76fb12fb55ae993e3c178e9fe8d8cbbb0cdc752a27a26245fb1b3ebf",
+      "pr_sha256": "0f0f6b2e76fb12fb55ae993e3c178e9fe8d8cbbb0cdc752a27a26245fb1b3ebf",
+      "same_bytes_as_pr": true
+    },
+    {
+      "run": "exp004-2026-11-03T05-39-31-545Z-fI8S8H",
+      "source": "src/orientation_engine.js",
+      "recorded_sha256": "eb0ad28ca20205d7768955e6e01ed9a692ce0d115399cf58c6e2bb8566db0674",
+      "pr_sha256": "5453495555b5da9854299343f44508b698d21dbe1f3540d54a9b81e22695370b",
+      "same_bytes_as_pr": false
+    },
+    {
+      "run": "exp004-2026-11-03T05-39-31-545Z-fI8S8H",
+      "source": "src/orientation_checks.js",
+      "recorded_sha256": "b9d01d69b80f893c2e4c37f005654da4cbbfca59c145a5d868528a486ab1a49f",
+      "pr_sha256": "ff4a932694ba9dc3b10d0a18fedcdc5a3477b2c4d675b7c792b5b445e8343a7b",
+      "same_bytes_as_pr": false
+    }
+  ]
+}
