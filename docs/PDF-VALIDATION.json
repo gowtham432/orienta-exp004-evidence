@@ -1,0 +1,23 @@
+{
+  "pdf_pages": 70,
+  "pdf_bytes": 384763,
+  "pdf_sha256": "b78c90e3f8dc5817afc6374b560a467482a4c957296681597883565246f00e5d",
+  "external_link_annotations": 251,
+  "unique_external_links": 143,
+  "pinned_source_evidence_links": 142,
+  "all_registered_links_present_in_pdf": true,
+  "all_external_links_github_https": true,
+  "out_of_page_text_blocks": [],
+  "empty_pages": [],
+  "outline_entries": 97,
+  "credential_scan": "passed configured local values",
+  "preview_pages": [
+    1,
+    9,
+    24,
+    28,
+    32,
+    48,
+    63
+  ]
+}

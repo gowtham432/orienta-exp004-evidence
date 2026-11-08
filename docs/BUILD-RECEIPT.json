@@ -1,0 +1,14 @@
+{
+  "source_commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+  "evidence_commit": "b8a16f641f3e660b83fafd08c50d5d662bee1fa4",
+  "pr_architecture_sha256": "adf8d90acb20a1170c1e4b0719fe50bb2b8b5a83af4455ee6299fd518719dfcc",
+  "source_and_evidence_links": 142,
+  "primary_sessions": 96,
+  "separate_reproduction_sessions": 48,
+  "test_inventory": 61,
+  "presentation_slides_mapped": 42,
+  "faq_questions": 30,
+  "new_live_calls": 0,
+  "new_Core_prechecks": 0,
+  "architecture_preserved": "complete original text and Mermaid in Appendix A; rendered routing and crosswalk in chapter 4"
+}

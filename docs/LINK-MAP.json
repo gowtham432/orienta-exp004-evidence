@@ -1,0 +1,1038 @@
+{
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/docs/evaluation/exp004-experiment-and-architecture.md": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "docs/evaluation/exp004-experiment-and-architecture.md",
+    "line": null,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/experiments/runtime-enforcement/runtime.js#L45-L83": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "experiments/runtime-enforcement/runtime.js",
+    "line": 45,
+    "end_line": 83
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/experiments/runtime-enforcement/runtime.js#L119-L158": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "experiments/runtime-enforcement/runtime.js",
+    "line": 119,
+    "end_line": 158
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/src/orientation_engine.js#L396-L425": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "src/orientation_engine.js",
+    "line": 396,
+    "end_line": 425
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/experiments/runtime-enforcement/runtime.js#L5-L6": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "experiments/runtime-enforcement/runtime.js",
+    "line": 5,
+    "end_line": 6
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/experiments/runtime-enforcement/runtime.js#L29": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "experiments/runtime-enforcement/runtime.js",
+    "line": 29,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/experiments/runtime-enforcement/groq.js#L28-L44": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "experiments/runtime-enforcement/groq.js",
+    "line": 28,
+    "end_line": 44
+  },
+  "https://github.com/gowtham432/orienta-exp004-evidence/blob/b8a16f641f3e660b83fafd08c50d5d662bee1fa4/reference/PR7-architecture-original.md": {
+    "repository": "gowtham432/orienta-exp004-evidence",
+    "commit": "b8a16f641f3e660b83fafd08c50d5d662bee1fa4",
+    "path": "reference/PR7-architecture-original.md",
+    "line": null,
+    "end_line": null,
+    "tree": false
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/experiments/runtime-enforcement/runtime.js#L185-L193": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "experiments/runtime-enforcement/runtime.js",
+    "line": 185,
+    "end_line": 193
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/experiments/runtime-enforcement/runtime.js#L174-L183": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "experiments/runtime-enforcement/runtime.js",
+    "line": 174,
+    "end_line": 183
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/experiments/runtime-enforcement/runtime.js#L89-L104": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "experiments/runtime-enforcement/runtime.js",
+    "line": 89,
+    "end_line": 104
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/experiments/runtime-enforcement/sandbox.js#L45-L61": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "experiments/runtime-enforcement/sandbox.js",
+    "line": 45,
+    "end_line": 61
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/experiments/runtime-enforcement/runtime.js#L60-L71": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "experiments/runtime-enforcement/runtime.js",
+    "line": 60,
+    "end_line": 71
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/experiments/runtime-enforcement/runtime.js#L74-L83": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "experiments/runtime-enforcement/runtime.js",
+    "line": 74,
+    "end_line": 83
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/experiments/runtime-enforcement/sandbox.js#L77-L109": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "experiments/runtime-enforcement/sandbox.js",
+    "line": 77,
+    "end_line": 109
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/experiments/runtime-enforcement/runtime.js#L36-L41": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "experiments/runtime-enforcement/runtime.js",
+    "line": 36,
+    "end_line": 41
+  },
+  "https://github.com/gowtham432/orienta-exp004-evidence/blob/b8a16f641f3e660b83fafd08c50d5d662bee1fa4/evidence/review/audit-implementation.js#L23-L84": {
+    "repository": "gowtham432/orienta-exp004-evidence",
+    "commit": "b8a16f641f3e660b83fafd08c50d5d662bee1fa4",
+    "path": "evidence/review/audit-implementation.js",
+    "line": 23,
+    "end_line": 84,
+    "tree": false
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/runtime-enforcement.test.js#L159-L173": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/runtime-enforcement.test.js",
+    "line": 159,
+    "end_line": 173
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/experiments/runtime-enforcement/cases.json#L8": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "experiments/runtime-enforcement/cases.json",
+    "line": 8,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/experiments/runtime-enforcement/cases.json#L19": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "experiments/runtime-enforcement/cases.json",
+    "line": 19,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/experiments/runtime-enforcement/cases.json#L30": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "experiments/runtime-enforcement/cases.json",
+    "line": 30,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/experiments/runtime-enforcement/cases.json#L41": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "experiments/runtime-enforcement/cases.json",
+    "line": 41,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/experiments/runtime-enforcement/cases.json#L52": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "experiments/runtime-enforcement/cases.json",
+    "line": 52,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/experiments/runtime-enforcement/cases.json#L63": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "experiments/runtime-enforcement/cases.json",
+    "line": 63,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/experiments/runtime-enforcement/cases.json#L74": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "experiments/runtime-enforcement/cases.json",
+    "line": 74,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/experiments/runtime-enforcement/cases.json#L85": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "experiments/runtime-enforcement/cases.json",
+    "line": 85,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/experiments/runtime-enforcement/cases.json#L38": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "experiments/runtime-enforcement/cases.json",
+    "line": 38,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/experiments/runtime-enforcement/sandbox.js#L27-L29": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "experiments/runtime-enforcement/sandbox.js",
+    "line": 27,
+    "end_line": 29
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/experiments/runtime-enforcement/sandbox.js#L63-L70": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "experiments/runtime-enforcement/sandbox.js",
+    "line": 63,
+    "end_line": 70
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/runtime-enforcement.js#L8-L10": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/runtime-enforcement.js",
+    "line": 8,
+    "end_line": 10
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/runtime-enforcement.js#L123-L127": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/runtime-enforcement.js",
+    "line": 123,
+    "end_line": 127
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/runtime-enforcement.js#L159-L164": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/runtime-enforcement.js",
+    "line": 159,
+    "end_line": 164
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/experiments/runtime-enforcement/runtime.js#L194-L204": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "experiments/runtime-enforcement/runtime.js",
+    "line": 194,
+    "end_line": 204
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/experiments/runtime-enforcement/runtime.js#L60-L83": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "experiments/runtime-enforcement/runtime.js",
+    "line": 60,
+    "end_line": 83
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/experiments/runtime-enforcement/sandbox.js#L36-L43": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "experiments/runtime-enforcement/sandbox.js",
+    "line": 36,
+    "end_line": 43
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/runtime-enforcement.test.js#L121-L144": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/runtime-enforcement.test.js",
+    "line": 121,
+    "end_line": 144
+  },
+  "https://github.com/gowtham432/orienta-exp004-evidence/blob/b8a16f641f3e660b83fafd08c50d5d662bee1fa4/analysis/README.md": {
+    "repository": "gowtham432/orienta-exp004-evidence",
+    "commit": "b8a16f641f3e660b83fafd08c50d5d662bee1fa4",
+    "path": "analysis/README.md",
+    "line": null,
+    "end_line": null,
+    "tree": false
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/experiments/runtime-enforcement/runtime.js#L119-L129": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "experiments/runtime-enforcement/runtime.js",
+    "line": 119,
+    "end_line": 129
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/experiments/runtime-enforcement/runtime.js#L136-L158": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "experiments/runtime-enforcement/runtime.js",
+    "line": 136,
+    "end_line": 158
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/experiments/runtime-enforcement/runtime.js#L207-L223": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "experiments/runtime-enforcement/runtime.js",
+    "line": 207,
+    "end_line": 223
+  },
+  "https://github.com/gowtham432/orienta-exp004-evidence/blob/b8a16f641f3e660b83fafd08c50d5d662bee1fa4/evidence/runs/exp004-2026-11-03T05-39-21-173Z-iNXS86/summary.json": {
+    "repository": "gowtham432/orienta-exp004-evidence",
+    "commit": "b8a16f641f3e660b83fafd08c50d5d662bee1fa4",
+    "path": "evidence/runs/exp004-2026-11-03T05-39-21-173Z-iNXS86/summary.json",
+    "line": null,
+    "end_line": null,
+    "tree": false
+  },
+  "https://github.com/gowtham432/orienta-exp004-evidence/blob/b8a16f641f3e660b83fafd08c50d5d662bee1fa4/evidence/runs/exp004-2026-11-03T07-06-08-795Z-7NtJS2/summary.json": {
+    "repository": "gowtham432/orienta-exp004-evidence",
+    "commit": "b8a16f641f3e660b83fafd08c50d5d662bee1fa4",
+    "path": "evidence/runs/exp004-2026-11-03T07-06-08-795Z-7NtJS2/summary.json",
+    "line": null,
+    "end_line": null,
+    "tree": false
+  },
+  "https://github.com/gowtham432/orienta-exp004-evidence/blob/b8a16f641f3e660b83fafd08c50d5d662bee1fa4/evidence/runs/exp004-2026-11-03T05-39-21-173Z-iNXS86/006-compare-only-risk-agent-only-r1/events.jsonl": {
+    "repository": "gowtham432/orienta-exp004-evidence",
+    "commit": "b8a16f641f3e660b83fafd08c50d5d662bee1fa4",
+    "path": "evidence/runs/exp004-2026-11-03T05-39-21-173Z-iNXS86/006-compare-only-risk-agent-only-r1/events.jsonl",
+    "line": null,
+    "end_line": null,
+    "tree": false
+  },
+  "https://github.com/gowtham432/orienta-exp004-evidence/blob/b8a16f641f3e660b83fafd08c50d5d662bee1fa4/evidence/runs/exp004-2026-11-03T05-39-21-173Z-iNXS86/007-compare-only-risk-advisory-r1/events.jsonl": {
+    "repository": "gowtham432/orienta-exp004-evidence",
+    "commit": "b8a16f641f3e660b83fafd08c50d5d662bee1fa4",
+    "path": "evidence/runs/exp004-2026-11-03T05-39-21-173Z-iNXS86/007-compare-only-risk-advisory-r1/events.jsonl",
+    "line": null,
+    "end_line": null,
+    "tree": false
+  },
+  "https://github.com/gowtham432/orienta-exp004-evidence/blob/b8a16f641f3e660b83fafd08c50d5d662bee1fa4/evidence/runs/exp004-2026-11-03T05-39-21-173Z-iNXS86/011-compare-only-risk-enforced-r1/events.jsonl": {
+    "repository": "gowtham432/orienta-exp004-evidence",
+    "commit": "b8a16f641f3e660b83fafd08c50d5d662bee1fa4",
+    "path": "evidence/runs/exp004-2026-11-03T05-39-21-173Z-iNXS86/011-compare-only-risk-enforced-r1/events.jsonl",
+    "line": null,
+    "end_line": null,
+    "tree": false
+  },
+  "https://github.com/gowtham432/orienta-exp004-evidence/blob/b8a16f641f3e660b83fafd08c50d5d662bee1fa4/evidence/runs/exp004-2026-11-03T05-39-31-545Z-fI8S8H/011-compare-only-risk-enforced-r1/events.jsonl#L11": {
+    "repository": "gowtham432/orienta-exp004-evidence",
+    "commit": "b8a16f641f3e660b83fafd08c50d5d662bee1fa4",
+    "path": "evidence/runs/exp004-2026-11-03T05-39-31-545Z-fI8S8H/011-compare-only-risk-enforced-r1/events.jsonl",
+    "line": 11,
+    "end_line": null,
+    "tree": false
+  },
+  "https://github.com/gowtham432/orienta-exp004-evidence/blob/b8a16f641f3e660b83fafd08c50d5d662bee1fa4/evidence/runs/exp004-2026-11-03T05-39-31-545Z-fI8S8H/011-compare-only-risk-enforced-r1/initial-state.json": {
+    "repository": "gowtham432/orienta-exp004-evidence",
+    "commit": "b8a16f641f3e660b83fafd08c50d5d662bee1fa4",
+    "path": "evidence/runs/exp004-2026-11-03T05-39-31-545Z-fI8S8H/011-compare-only-risk-enforced-r1/initial-state.json",
+    "line": null,
+    "end_line": null,
+    "tree": false
+  },
+  "https://github.com/gowtham432/orienta-exp004-evidence/blob/b8a16f641f3e660b83fafd08c50d5d662bee1fa4/evidence/runs/exp004-2026-11-03T05-39-31-545Z-fI8S8H/011-compare-only-risk-enforced-r1/final-state.json": {
+    "repository": "gowtham432/orienta-exp004-evidence",
+    "commit": "b8a16f641f3e660b83fafd08c50d5d662bee1fa4",
+    "path": "evidence/runs/exp004-2026-11-03T05-39-31-545Z-fI8S8H/011-compare-only-risk-enforced-r1/final-state.json",
+    "line": null,
+    "end_line": null,
+    "tree": false
+  },
+  "https://github.com/gowtham432/orienta-exp004-evidence/blob/b8a16f641f3e660b83fafd08c50d5d662bee1fa4/evidence/runs/exp004-2026-11-03T05-39-31-545Z-fI8S8H/011-compare-only-risk-enforced-r1/result.json": {
+    "repository": "gowtham432/orienta-exp004-evidence",
+    "commit": "b8a16f641f3e660b83fafd08c50d5d662bee1fa4",
+    "path": "evidence/runs/exp004-2026-11-03T05-39-31-545Z-fI8S8H/011-compare-only-risk-enforced-r1/result.json",
+    "line": null,
+    "end_line": null,
+    "tree": false
+  },
+  "https://github.com/gowtham432/orienta-exp004-evidence/blob/b8a16f641f3e660b83fafd08c50d5d662bee1fa4/reproductions/exp004-2026-11-05T05-57-25-985Z-3gpTaF/011-compare-only-risk-enforced-r1/result.json": {
+    "repository": "gowtham432/orienta-exp004-evidence",
+    "commit": "b8a16f641f3e660b83fafd08c50d5d662bee1fa4",
+    "path": "reproductions/exp004-2026-11-05T05-57-25-985Z-3gpTaF/011-compare-only-risk-enforced-r1/result.json",
+    "line": null,
+    "end_line": null,
+    "tree": false
+  },
+  "https://github.com/gowtham432/orienta-exp004-evidence/blob/b8a16f641f3e660b83fafd08c50d5d662bee1fa4/reproductions/exp004-2026-11-05T05-57-25-985Z-3gpTaF/manifest.json": {
+    "repository": "gowtham432/orienta-exp004-evidence",
+    "commit": "b8a16f641f3e660b83fafd08c50d5d662bee1fa4",
+    "path": "reproductions/exp004-2026-11-05T05-57-25-985Z-3gpTaF/manifest.json",
+    "line": null,
+    "end_line": null,
+    "tree": false
+  },
+  "https://github.com/gowtham432/orienta-exp004-evidence/blob/b8a16f641f3e660b83fafd08c50d5d662bee1fa4/evidence/runs/exp004-2026-11-03T05-39-31-545Z-fI8S8H/019-denied-preferences-risk-advisory-r1/events.jsonl": {
+    "repository": "gowtham432/orienta-exp004-evidence",
+    "commit": "b8a16f641f3e660b83fafd08c50d5d662bee1fa4",
+    "path": "evidence/runs/exp004-2026-11-03T05-39-31-545Z-fI8S8H/019-denied-preferences-risk-advisory-r1/events.jsonl",
+    "line": null,
+    "end_line": null,
+    "tree": false
+  },
+  "https://github.com/gowtham432/orienta-exp004-evidence/blob/b8a16f641f3e660b83fafd08c50d5d662bee1fa4/evidence/runs/exp004-2026-11-03T05-39-31-545Z-fI8S8H/012-denied-preferences-risk-enforced-r1/events.jsonl": {
+    "repository": "gowtham432/orienta-exp004-evidence",
+    "commit": "b8a16f641f3e660b83fafd08c50d5d662bee1fa4",
+    "path": "evidence/runs/exp004-2026-11-03T05-39-31-545Z-fI8S8H/012-denied-preferences-risk-enforced-r1/events.jsonl",
+    "line": null,
+    "end_line": null,
+    "tree": false
+  },
+  "https://github.com/gowtham432/orienta-exp004-evidence/blob/b8a16f641f3e660b83fafd08c50d5d662bee1fa4/evidence/runs/exp004-2026-11-03T05-39-31-545Z-fI8S8H/012-denied-preferences-risk-enforced-r1/final-state.json": {
+    "repository": "gowtham432/orienta-exp004-evidence",
+    "commit": "b8a16f641f3e660b83fafd08c50d5d662bee1fa4",
+    "path": "evidence/runs/exp004-2026-11-03T05-39-31-545Z-fI8S8H/012-denied-preferences-risk-enforced-r1/final-state.json",
+    "line": null,
+    "end_line": null,
+    "tree": false
+  },
+  "https://github.com/gowtham432/orienta-exp004-evidence/blob/b8a16f641f3e660b83fafd08c50d5d662bee1fa4/evidence/runs/exp004-2026-11-03T05-39-31-545Z-fI8S8H/009-retry-alias-risk-enforced-r1/events.jsonl": {
+    "repository": "gowtham432/orienta-exp004-evidence",
+    "commit": "b8a16f641f3e660b83fafd08c50d5d662bee1fa4",
+    "path": "evidence/runs/exp004-2026-11-03T05-39-31-545Z-fI8S8H/009-retry-alias-risk-enforced-r1/events.jsonl",
+    "line": null,
+    "end_line": null,
+    "tree": false
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/orientation-core.test.js": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/orientation-core.test.js",
+    "line": null,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/evaluate-cases.test.js": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/evaluate-cases.test.js",
+    "line": null,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/api-review.test.js": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/api-review.test.js",
+    "line": null,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/runtime-enforcement.test.js": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/runtime-enforcement.test.js",
+    "line": null,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/runtime-enforcement.test.js#L41": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/runtime-enforcement.test.js",
+    "line": 41,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/runtime-enforcement.test.js#L54": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/runtime-enforcement.test.js",
+    "line": 54,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/runtime-enforcement.test.js#L67": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/runtime-enforcement.test.js",
+    "line": 67,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/runtime-enforcement.test.js#L81": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/runtime-enforcement.test.js",
+    "line": 81,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/runtime-enforcement.test.js#L96": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/runtime-enforcement.test.js",
+    "line": 96,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/runtime-enforcement.test.js#L121": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/runtime-enforcement.test.js",
+    "line": 121,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/runtime-enforcement.test.js#L146": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/runtime-enforcement.test.js",
+    "line": 146,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/runtime-enforcement.test.js#L159": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/runtime-enforcement.test.js",
+    "line": 159,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/runtime-enforcement.test.js#L175": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/runtime-enforcement.test.js",
+    "line": 175,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/runtime-enforcement.test.js#L189": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/runtime-enforcement.test.js",
+    "line": 189,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/runtime-enforcement.test.js#L218": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/runtime-enforcement.test.js",
+    "line": 218,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/runtime-enforcement.test.js#L233": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/runtime-enforcement.test.js",
+    "line": 233,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/runtime-enforcement.test.js#L248": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/runtime-enforcement.test.js",
+    "line": 248,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/runtime-enforcement.test.js#L264": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/runtime-enforcement.test.js",
+    "line": 264,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/runtime-enforcement.test.js#L282": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/runtime-enforcement.test.js",
+    "line": 282,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/runtime-enforcement.test.js#L300": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/runtime-enforcement.test.js",
+    "line": 300,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/runtime-enforcement.test.js#L323": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/runtime-enforcement.test.js",
+    "line": 323,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/runtime-enforcement.test.js#L54-L65": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/runtime-enforcement.test.js",
+    "line": 54,
+    "end_line": 65
+  },
+  "https://github.com/gowtham432/orienta-exp004-evidence/blob/b8a16f641f3e660b83fafd08c50d5d662bee1fa4/review-records/pr-branch-tests.txt": {
+    "repository": "gowtham432/orienta-exp004-evidence",
+    "commit": "b8a16f641f3e660b83fafd08c50d5d662bee1fa4",
+    "path": "review-records/pr-branch-tests.txt",
+    "line": null,
+    "end_line": null,
+    "tree": false
+  },
+  "https://github.com/gowtham432/orienta-exp004-evidence/blob/b8a16f641f3e660b83fafd08c50d5d662bee1fa4/evidence/runs/exp004-2026-11-03T05-37-36-996Z-gviofy/summary.json": {
+    "repository": "gowtham432/orienta-exp004-evidence",
+    "commit": "b8a16f641f3e660b83fafd08c50d5d662bee1fa4",
+    "path": "evidence/runs/exp004-2026-11-03T05-37-36-996Z-gviofy/summary.json",
+    "line": null,
+    "end_line": null,
+    "tree": false
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/experiments/runtime-enforcement/groq.js#L49-L61": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "experiments/runtime-enforcement/groq.js",
+    "line": 49,
+    "end_line": 61
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/experiments/runtime-enforcement/groq.js#L15-L26": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "experiments/runtime-enforcement/groq.js",
+    "line": 15,
+    "end_line": 26
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/runtime-enforcement.js#L50-L79": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/runtime-enforcement.js",
+    "line": 50,
+    "end_line": 79
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/runtime-enforcement.js#L125": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/runtime-enforcement.js",
+    "line": 125,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta-exp004-evidence/tree/b8a16f641f3e660b83fafd08c50d5d662bee1fa4/evidence/runs/exp004-2026-11-03T05-37-36-996Z-gviofy": {
+    "repository": "gowtham432/orienta-exp004-evidence",
+    "commit": "b8a16f641f3e660b83fafd08c50d5d662bee1fa4",
+    "path": "evidence/runs/exp004-2026-11-03T05-37-36-996Z-gviofy",
+    "line": null,
+    "end_line": null,
+    "tree": true
+  },
+  "https://github.com/gowtham432/orienta-exp004-evidence/tree/b8a16f641f3e660b83fafd08c50d5d662bee1fa4/evidence/runs/exp004-2026-11-03T05-39-21-173Z-iNXS86": {
+    "repository": "gowtham432/orienta-exp004-evidence",
+    "commit": "b8a16f641f3e660b83fafd08c50d5d662bee1fa4",
+    "path": "evidence/runs/exp004-2026-11-03T05-39-21-173Z-iNXS86",
+    "line": null,
+    "end_line": null,
+    "tree": true
+  },
+  "https://github.com/gowtham432/orienta-exp004-evidence/tree/b8a16f641f3e660b83fafd08c50d5d662bee1fa4/evidence/runs/exp004-2026-11-03T07-06-08-795Z-7NtJS2": {
+    "repository": "gowtham432/orienta-exp004-evidence",
+    "commit": "b8a16f641f3e660b83fafd08c50d5d662bee1fa4",
+    "path": "evidence/runs/exp004-2026-11-03T07-06-08-795Z-7NtJS2",
+    "line": null,
+    "end_line": null,
+    "tree": true
+  },
+  "https://github.com/gowtham432/orienta-exp004-evidence/tree/b8a16f641f3e660b83fafd08c50d5d662bee1fa4/evidence/runs/exp004-2026-11-03T05-39-31-545Z-fI8S8H": {
+    "repository": "gowtham432/orienta-exp004-evidence",
+    "commit": "b8a16f641f3e660b83fafd08c50d5d662bee1fa4",
+    "path": "evidence/runs/exp004-2026-11-03T05-39-31-545Z-fI8S8H",
+    "line": null,
+    "end_line": null,
+    "tree": true
+  },
+  "https://github.com/gowtham432/orienta-exp004-evidence/tree/b8a16f641f3e660b83fafd08c50d5d662bee1fa4/reproductions": {
+    "repository": "gowtham432/orienta-exp004-evidence",
+    "commit": "b8a16f641f3e660b83fafd08c50d5d662bee1fa4",
+    "path": "reproductions",
+    "line": null,
+    "end_line": null,
+    "tree": true
+  },
+  "https://github.com/gowtham432/orienta-exp004-evidence/blob/b8a16f641f3e660b83fafd08c50d5d662bee1fa4/evidence/source-comparison.json": {
+    "repository": "gowtham432/orienta-exp004-evidence",
+    "commit": "b8a16f641f3e660b83fafd08c50d5d662bee1fa4",
+    "path": "evidence/source-comparison.json",
+    "line": null,
+    "end_line": null,
+    "tree": false
+  },
+  "https://github.com/gowtham432/orienta-exp004-evidence/blob/b8a16f641f3e660b83fafd08c50d5d662bee1fa4/evidence/review/audit-implementation.js#L23-L88": {
+    "repository": "gowtham432/orienta-exp004-evidence",
+    "commit": "b8a16f641f3e660b83fafd08c50d5d662bee1fa4",
+    "path": "evidence/review/audit-implementation.js",
+    "line": 23,
+    "end_line": 88,
+    "tree": false
+  },
+  "https://github.com/gowtham432/orienta-exp004-evidence/blob/b8a16f641f3e660b83fafd08c50d5d662bee1fa4/evidence/verify.js": {
+    "repository": "gowtham432/orienta-exp004-evidence",
+    "commit": "b8a16f641f3e660b83fafd08c50d5d662bee1fa4",
+    "path": "evidence/verify.js",
+    "line": null,
+    "end_line": null,
+    "tree": false
+  },
+  "https://github.com/gowtham432/orienta-exp004-evidence/blob/b8a16f641f3e660b83fafd08c50d5d662bee1fa4/verify.js": {
+    "repository": "gowtham432/orienta-exp004-evidence",
+    "commit": "b8a16f641f3e660b83fafd08c50d5d662bee1fa4",
+    "path": "verify.js",
+    "line": null,
+    "end_line": null,
+    "tree": false
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/.env.exp004.example": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": ".env.exp004.example",
+    "line": null,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/experiments/runtime-enforcement/groq.js#L5-L8": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "experiments/runtime-enforcement/groq.js",
+    "line": 5,
+    "end_line": 8
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/runtime-enforcement.js": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/runtime-enforcement.js",
+    "line": null,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/experiments/runtime-enforcement/runtime.js": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "experiments/runtime-enforcement/runtime.js",
+    "line": null,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/experiments/runtime-enforcement/groq.js": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "experiments/runtime-enforcement/groq.js",
+    "line": null,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/experiments/runtime-enforcement/sandbox.js": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "experiments/runtime-enforcement/sandbox.js",
+    "line": null,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/experiments/runtime-enforcement/cases.json": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "experiments/runtime-enforcement/cases.json",
+    "line": null,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/src/orientation_engine.js": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "src/orientation_engine.js",
+    "line": null,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/src/orientation_checks.js": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "src/orientation_checks.js",
+    "line": null,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/orientation-core.test.js#L9": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/orientation-core.test.js",
+    "line": 9,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/orientation-core.test.js#L17": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/orientation-core.test.js",
+    "line": 17,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/orientation-core.test.js#L23": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/orientation-core.test.js",
+    "line": 23,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/orientation-core.test.js#L30": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/orientation-core.test.js",
+    "line": 30,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/orientation-core.test.js#L38": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/orientation-core.test.js",
+    "line": 38,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/orientation-core.test.js#L43": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/orientation-core.test.js",
+    "line": 43,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/orientation-core.test.js#L47": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/orientation-core.test.js",
+    "line": 47,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/orientation-core.test.js#L52": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/orientation-core.test.js",
+    "line": 52,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/orientation-core.test.js#L57": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/orientation-core.test.js",
+    "line": 57,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/orientation-core.test.js#L61": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/orientation-core.test.js",
+    "line": 61,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/orientation-core.test.js#L66": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/orientation-core.test.js",
+    "line": 66,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/evaluate-cases.test.js#L12": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/evaluate-cases.test.js",
+    "line": 12,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/evaluate-cases.test.js#L19": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/evaluate-cases.test.js",
+    "line": 19,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/evaluate-cases.test.js#L26": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/evaluate-cases.test.js",
+    "line": 26,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/evaluate-cases.test.js#L35": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/evaluate-cases.test.js",
+    "line": 35,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/evaluate-cases.test.js#L41": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/evaluate-cases.test.js",
+    "line": 41,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/evaluate-cases.test.js#L54": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/evaluate-cases.test.js",
+    "line": 54,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/evaluate-cases.test.js#L59": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/evaluate-cases.test.js",
+    "line": 59,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/evaluate-cases.test.js#L80": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/evaluate-cases.test.js",
+    "line": 80,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/evaluate-cases.test.js#L110": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/evaluate-cases.test.js",
+    "line": 110,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/evaluate-cases.test.js#L121": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/evaluate-cases.test.js",
+    "line": 121,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/api-review.test.js#L63": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/api-review.test.js",
+    "line": 63,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/api-review.test.js#L75": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/api-review.test.js",
+    "line": 75,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/api-review.test.js#L83": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/api-review.test.js",
+    "line": 83,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/api-review.test.js#L98": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/api-review.test.js",
+    "line": 98,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/api-review.test.js#L110": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/api-review.test.js",
+    "line": 110,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/scripts/api-review.test.js#L120": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "scripts/api-review.test.js",
+    "line": 120,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta/blob/d1495b9973ae6cd5770d843c8fcedbf7a6f3b052/package.json": {
+    "repository": "gowtham432/orienta",
+    "commit": "d1495b9973ae6cd5770d843c8fcedbf7a6f3b052",
+    "path": "package.json",
+    "line": null,
+    "end_line": null
+  },
+  "https://github.com/gowtham432/orienta-exp004-evidence/blob/b8a16f641f3e660b83fafd08c50d5d662bee1fa4/evidence/runs/exp004-2026-11-03T05-37-36-996Z-gviofy/manifest.json": {
+    "repository": "gowtham432/orienta-exp004-evidence",
+    "commit": "b8a16f641f3e660b83fafd08c50d5d662bee1fa4",
+    "path": "evidence/runs/exp004-2026-11-03T05-37-36-996Z-gviofy/manifest.json",
+    "line": null,
+    "end_line": null,
+    "tree": false
+  },
+  "https://github.com/gowtham432/orienta-exp004-evidence/blob/b8a16f641f3e660b83fafd08c50d5d662bee1fa4/evidence/runs/exp004-2026-11-03T05-39-21-173Z-iNXS86/manifest.json": {
+    "repository": "gowtham432/orienta-exp004-evidence",
+    "commit": "b8a16f641f3e660b83fafd08c50d5d662bee1fa4",
+    "path": "evidence/runs/exp004-2026-11-03T05-39-21-173Z-iNXS86/manifest.json",
+    "line": null,
+    "end_line": null,
+    "tree": false
+  },
+  "https://github.com/gowtham432/orienta-exp004-evidence/blob/b8a16f641f3e660b83fafd08c50d5d662bee1fa4/evidence/runs/exp004-2026-11-03T07-06-08-795Z-7NtJS2/manifest.json": {
+    "repository": "gowtham432/orienta-exp004-evidence",
+    "commit": "b8a16f641f3e660b83fafd08c50d5d662bee1fa4",
+    "path": "evidence/runs/exp004-2026-11-03T07-06-08-795Z-7NtJS2/manifest.json",
+    "line": null,
+    "end_line": null,
+    "tree": false
+  },
+  "https://github.com/gowtham432/orienta-exp004-evidence/blob/b8a16f641f3e660b83fafd08c50d5d662bee1fa4/evidence/runs/exp004-2026-11-03T05-39-31-545Z-fI8S8H/manifest.json": {
+    "repository": "gowtham432/orienta-exp004-evidence",
+    "commit": "b8a16f641f3e660b83fafd08c50d5d662bee1fa4",
+    "path": "evidence/runs/exp004-2026-11-03T05-39-31-545Z-fI8S8H/manifest.json",
+    "line": null,
+    "end_line": null,
+    "tree": false
+  },
+  "https://github.com/gowtham432/orienta-exp004-evidence/blob/b8a16f641f3e660b83fafd08c50d5d662bee1fa4/evidence/runs/exp004-2026-11-03T05-39-31-545Z-fI8S8H/summary.json": {
+    "repository": "gowtham432/orienta-exp004-evidence",
+    "commit": "b8a16f641f3e660b83fafd08c50d5d662bee1fa4",
+    "path": "evidence/runs/exp004-2026-11-03T05-39-31-545Z-fI8S8H/summary.json",
+    "line": null,
+    "end_line": null,
+    "tree": false
+  },
+  "https://github.com/gowtham432/orienta-exp004-evidence/blob/b8a16f641f3e660b83fafd08c50d5d662bee1fa4/analysis/run-session-index.json": {
+    "repository": "gowtham432/orienta-exp004-evidence",
+    "commit": "b8a16f641f3e660b83fafd08c50d5d662bee1fa4",
+    "path": "analysis/run-session-index.json",
+    "line": null,
+    "end_line": null,
+    "tree": false
+  },
+  "https://github.com/gowtham432/orienta-exp004-evidence/blob/b8a16f641f3e660b83fafd08c50d5d662bee1fa4/analysis/key-traces.json": {
+    "repository": "gowtham432/orienta-exp004-evidence",
+    "commit": "b8a16f641f3e660b83fafd08c50d5d662bee1fa4",
+    "path": "analysis/key-traces.json",
+    "line": null,
+    "end_line": null,
+    "tree": false
+  },
+  "https://github.com/gowtham432/orienta-exp004-evidence/blob/b8a16f641f3e660b83fafd08c50d5d662bee1fa4/evidence/evidence-index.json": {
+    "repository": "gowtham432/orienta-exp004-evidence",
+    "commit": "b8a16f641f3e660b83fafd08c50d5d662bee1fa4",
+    "path": "evidence/evidence-index.json",
+    "line": null,
+    "end_line": null,
+    "tree": false
+  },
+  "https://github.com/gowtham432/orienta-exp004-evidence/blob/b8a16f641f3e660b83fafd08c50d5d662bee1fa4/evidence/MANIFEST.json": {
+    "repository": "gowtham432/orienta-exp004-evidence",
+    "commit": "b8a16f641f3e660b83fafd08c50d5d662bee1fa4",
+    "path": "evidence/MANIFEST.json",
+    "line": null,
+    "end_line": null,
+    "tree": false
+  },
+  "https://github.com/gowtham432/orienta-exp004-evidence/blob/b8a16f641f3e660b83fafd08c50d5d662bee1fa4/PUBLICATION-MANIFEST.json": {
+    "repository": "gowtham432/orienta-exp004-evidence",
+    "commit": "b8a16f641f3e660b83fafd08c50d5d662bee1fa4",
+    "path": "PUBLICATION-MANIFEST.json",
+    "line": null,
+    "end_line": null,
+    "tree": false
+  },
+  "https://github.com/gowtham432/orienta-exp004-evidence/blob/b8a16f641f3e660b83fafd08c50d5d662bee1fa4/evidence/runs/exp004-2026-11-03T05-39-31-545Z-fI8S8H/011-compare-only-risk-enforced-r1/task.json": {
+    "repository": "gowtham432/orienta-exp004-evidence",
+    "commit": "b8a16f641f3e660b83fafd08c50d5d662bee1fa4",
+    "path": "evidence/runs/exp004-2026-11-03T05-39-31-545Z-fI8S8H/011-compare-only-risk-enforced-r1/task.json",
+    "line": null,
+    "end_line": null,
+    "tree": false
+  },
+  "https://github.com/gowtham432/orienta-exp004-evidence/blob/b8a16f641f3e660b83fafd08c50d5d662bee1fa4/evidence/runs/exp004-2026-11-03T05-39-31-545Z-fI8S8H/012-denied-preferences-risk-enforced-r1/task.json": {
+    "repository": "gowtham432/orienta-exp004-evidence",
+    "commit": "b8a16f641f3e660b83fafd08c50d5d662bee1fa4",
+    "path": "evidence/runs/exp004-2026-11-03T05-39-31-545Z-fI8S8H/012-denied-preferences-risk-enforced-r1/task.json",
+    "line": null,
+    "end_line": null,
+    "tree": false
+  },
+  "https://github.com/gowtham432/orienta-exp004-evidence/blob/b8a16f641f3e660b83fafd08c50d5d662bee1fa4/evidence/runs/exp004-2026-11-03T05-39-31-545Z-fI8S8H/012-denied-preferences-risk-enforced-r1/events.jsonl#L11": {
+    "repository": "gowtham432/orienta-exp004-evidence",
+    "commit": "b8a16f641f3e660b83fafd08c50d5d662bee1fa4",
+    "path": "evidence/runs/exp004-2026-11-03T05-39-31-545Z-fI8S8H/012-denied-preferences-risk-enforced-r1/events.jsonl",
+    "line": 11,
+    "end_line": null,
+    "tree": false
+  }
+}

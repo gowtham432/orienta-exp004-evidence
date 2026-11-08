@@ -1,0 +1,6 @@
+{
+  "verification": "passed",
+  "pinned_links_checked": 142,
+  "github_commit_trees_checked": 2,
+  "method": "Authenticated GitHub API lookup of exact commit trees; every target path exists as expected"
+}

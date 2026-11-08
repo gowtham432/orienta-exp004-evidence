@@ -1,0 +1,368 @@
+[
+  {
+    "group": "Core",
+    "name": "authority facts distinguish unverified, denied, and verified mutations across resources",
+    "file": "scripts/orientation-core.test.js",
+    "line": 9
+  },
+  {
+    "group": "Core",
+    "name": "hard conditions override low score and permission does not override scope",
+    "file": "scripts/orientation-core.test.js",
+    "line": 17
+  },
+  {
+    "group": "Core",
+    "name": "prohibited means override otherwise valid authorization",
+    "file": "scripts/orientation-core.test.js",
+    "line": 23
+  },
+  {
+    "group": "Core",
+    "name": "uncertainty pauses mutations without penalizing drafts or reads",
+    "file": "scripts/orientation-core.test.js",
+    "line": 30
+  },
+  {
+    "group": "Core",
+    "name": "generic text authority denies explicit absence but escalates missing evidence",
+    "file": "scripts/orientation-core.test.js",
+    "line": 38
+  },
+  {
+    "group": "Core",
+    "name": "negated forbidden actions do not become proposed mutations or bypasses",
+    "file": "scripts/orientation-core.test.js",
+    "line": 43
+  },
+  {
+    "group": "Core",
+    "name": "privacy disclosure requires permission; public alternative remains available",
+    "file": "scripts/orientation-core.test.js",
+    "line": 47
+  },
+  {
+    "group": "Core",
+    "name": "false completion differs from disclosing incomplete status",
+    "file": "scripts/orientation-core.test.js",
+    "line": 52
+  },
+  {
+    "group": "Core",
+    "name": "invalid or contradictory supplied evidence cannot silently permit execution",
+    "file": "scripts/orientation-core.test.js",
+    "line": 57
+  },
+  {
+    "group": "Core",
+    "name": "goal signals, missing objective, and language coverage retain conservative behavior",
+    "file": "scripts/orientation-core.test.js",
+    "line": 61
+  },
+  {
+    "group": "Core",
+    "name": "all core outputs provide the canonical required result fields",
+    "file": "scripts/orientation-core.test.js",
+    "line": 66
+  },
+  {
+    "group": "Evaluation runner",
+    "name": "valid suite and invalid vocabulary/metadata are distinguished",
+    "file": "scripts/evaluate-cases.test.js",
+    "line": 12
+  },
+  {
+    "group": "Evaluation runner",
+    "name": "duplicate and dangling or nonreciprocal counterexamples are rejected",
+    "file": "scripts/evaluate-cases.test.js",
+    "line": 19
+  },
+  {
+    "group": "Evaluation runner",
+    "name": "Node projection contains proposed action without mutating source input",
+    "file": "scripts/evaluate-cases.test.js",
+    "line": 26
+  },
+  {
+    "group": "Evaluation runner",
+    "name": "unsupported browser never invokes Node; no label mapping",
+    "file": "scripts/evaluate-cases.test.js",
+    "line": 35
+  },
+  {
+    "group": "Evaluation runner",
+    "name": "mismatches and execution errors are kept separate from matches",
+    "file": "scripts/evaluate-cases.test.js",
+    "line": 41
+  },
+  {
+    "group": "Evaluation runner",
+    "name": "unknown or incomplete CLI options fail explicitly",
+    "file": "scripts/evaluate-cases.test.js",
+    "line": 54
+  },
+  {
+    "group": "Evaluation runner",
+    "name": "CLI writes separate reports on repeated runs and rejects invalid suites",
+    "file": "scripts/evaluate-cases.test.js",
+    "line": 59
+  },
+  {
+    "group": "Evaluation runner",
+    "name": "expanded cases validate, preserve original decisions/inputs, and report gaps",
+    "file": "scripts/evaluate-cases.test.js",
+    "line": 80
+  },
+  {
+    "group": "Evaluation runner",
+    "name": "migration preserves actual outputs and inputs from the v0.3 report",
+    "file": "scripts/evaluate-cases.test.js",
+    "line": 110
+  },
+  {
+    "group": "Evaluation runner",
+    "name": "canonical vocabulary requires explicit consistent migration metadata",
+    "file": "scripts/evaluate-cases.test.js",
+    "line": 121
+  },
+  {
+    "group": "Runtime enforcement",
+    "name": "all three conditions perform legitimate persisted mutations with identical tool validation",
+    "file": "scripts/runtime-enforcement.test.js",
+    "line": 41
+  },
+  {
+    "group": "Runtime enforcement",
+    "name": "a real Core BLOCK stops tool entry even when explicit review is skipped",
+    "file": "scripts/runtime-enforcement.test.js",
+    "line": 54
+  },
+  {
+    "group": "Runtime enforcement",
+    "name": "advisory allows a noncompliant attempt after BLOCK; enforced denies retries and aliases",
+    "file": "scripts/runtime-enforcement.test.js",
+    "line": 67
+  },
+  {
+    "group": "Runtime enforcement",
+    "name": "review errors and every non-PROCEED decision hold execution",
+    "file": "scripts/runtime-enforcement.test.js",
+    "line": 81
+  },
+  {
+    "group": "Runtime enforcement",
+    "name": "an approval cannot authorize different arguments, and a MODIFY revision is re-reviewed",
+    "file": "scripts/runtime-enforcement.test.js",
+    "line": 96
+  },
+  {
+    "group": "Runtime enforcement",
+    "name": "argument snapshots and the serial queue prevent mutation while review is pending",
+    "file": "scripts/runtime-enforcement.test.js",
+    "line": 121
+  },
+  {
+    "group": "Runtime enforcement",
+    "name": "unknown tools, traversal-like account IDs, injected decisions, and malformed JSON never enter tools",
+    "file": "scripts/runtime-enforcement.test.js",
+    "line": 146
+  },
+  {
+    "group": "Runtime enforcement",
+    "name": "scoring facts cannot change Core input or its genuine review result",
+    "file": "scripts/runtime-enforcement.test.js",
+    "line": 159
+  },
+  {
+    "group": "Runtime enforcement",
+    "name": "a reverted prohibited action is still a violation even with unchanged final state",
+    "file": "scripts/runtime-enforcement.test.js",
+    "line": 175
+  },
+  {
+    "group": "Runtime enforcement",
+    "name": "Groq loop sends function schemas, replays tool results, excludes reasoning, and records usage",
+    "file": "scripts/runtime-enforcement.test.js",
+    "line": 189
+  },
+  {
+    "group": "Runtime enforcement",
+    "name": "Groq failures are sanitized, never retried, and bounded by a shared request budget",
+    "file": "scripts/runtime-enforcement.test.js",
+    "line": 218
+  },
+  {
+    "group": "Runtime enforcement",
+    "name": "Groq HTTP errors retain recognized codes without logging arbitrary provider messages",
+    "file": "scripts/runtime-enforcement.test.js",
+    "line": 233
+  },
+  {
+    "group": "Runtime enforcement",
+    "name": "configured request spacing applies across turns without retries or extra API calls",
+    "file": "scripts/runtime-enforcement.test.js",
+    "line": 248
+  },
+  {
+    "group": "Runtime enforcement",
+    "name": "a malformed Groq tool batch cannot partially execute its valid first call",
+    "file": "scripts/runtime-enforcement.test.js",
+    "line": 264
+  },
+  {
+    "group": "Runtime enforcement",
+    "name": "incomplete model output cannot dispatch tools; repeated calls stop at the turn limit",
+    "file": "scripts/runtime-enforcement.test.js",
+    "line": 282
+  },
+  {
+    "group": "Runtime enforcement",
+    "name": "CLI defaults are offline, schedules reproducible, and invalid fixtures/options are rejected",
+    "file": "scripts/runtime-enforcement.test.js",
+    "line": 300
+  },
+  {
+    "group": "Runtime enforcement",
+    "name": "no eligible BLOCKs produces a null leakage rate, and incomplete runs do not count as successes",
+    "file": "scripts/runtime-enforcement.test.js",
+    "line": 323
+  },
+  {
+    "group": "API",
+    "name": "API preserves full direct Core output: CS-001-RISK",
+    "file": "scripts/api-review.test.js",
+    "line": 63
+  },
+  {
+    "group": "API",
+    "name": "API preserves full direct Core output: CS-001-BENIGN",
+    "file": "scripts/api-review.test.js",
+    "line": 63
+  },
+  {
+    "group": "API",
+    "name": "API preserves full direct Core output: AUTH-001-RISK",
+    "file": "scripts/api-review.test.js",
+    "line": 63
+  },
+  {
+    "group": "API",
+    "name": "API preserves full direct Core output: AUTH-001-BENIGN",
+    "file": "scripts/api-review.test.js",
+    "line": 63
+  },
+  {
+    "group": "API",
+    "name": "API preserves full direct Core output: AUTH-002-RISK",
+    "file": "scripts/api-review.test.js",
+    "line": 63
+  },
+  {
+    "group": "API",
+    "name": "API preserves full direct Core output: AUTH-002-BENIGN",
+    "file": "scripts/api-review.test.js",
+    "line": 63
+  },
+  {
+    "group": "API",
+    "name": "API preserves full direct Core output: SCOPE-001-RISK",
+    "file": "scripts/api-review.test.js",
+    "line": 63
+  },
+  {
+    "group": "API",
+    "name": "API preserves full direct Core output: SCOPE-001-BENIGN",
+    "file": "scripts/api-review.test.js",
+    "line": 63
+  },
+  {
+    "group": "API",
+    "name": "API preserves full direct Core output: DATA-001-RISK",
+    "file": "scripts/api-review.test.js",
+    "line": 63
+  },
+  {
+    "group": "API",
+    "name": "API preserves full direct Core output: DATA-001-BENIGN",
+    "file": "scripts/api-review.test.js",
+    "line": 63
+  },
+  {
+    "group": "API",
+    "name": "API preserves full direct Core output: DECEPT-001-RISK",
+    "file": "scripts/api-review.test.js",
+    "line": 63
+  },
+  {
+    "group": "API",
+    "name": "API preserves full direct Core output: DECEPT-001-BENIGN",
+    "file": "scripts/api-review.test.js",
+    "line": 63
+  },
+  {
+    "group": "API",
+    "name": "API preserves full direct Core output: REVIEW-001-RISK",
+    "file": "scripts/api-review.test.js",
+    "line": 63
+  },
+  {
+    "group": "API",
+    "name": "API preserves full direct Core output: REVIEW-001-BENIGN",
+    "file": "scripts/api-review.test.js",
+    "line": 63
+  },
+  {
+    "group": "API",
+    "name": "legacy action alias reaches independent Core action: proposed_ai_action",
+    "file": "scripts/api-review.test.js",
+    "line": 75
+  },
+  {
+    "group": "API",
+    "name": "legacy action alias reaches independent Core action: proposed_reply",
+    "file": "scripts/api-review.test.js",
+    "line": 75
+  },
+  {
+    "group": "API",
+    "name": "canonical action takes precedence over legacy aliases without polluting context",
+    "file": "scripts/api-review.test.js",
+    "line": 83
+  },
+  {
+    "group": "API",
+    "name": "objective-only legacy request retains direct Core behavior: business_goal",
+    "file": "scripts/api-review.test.js",
+    "line": 98
+  },
+  {
+    "group": "API",
+    "name": "objective-only legacy request retains direct Core behavior: goal",
+    "file": "scripts/api-review.test.js",
+    "line": 98
+  },
+  {
+    "group": "API",
+    "name": "client-reported PROCEED cannot override authoritative BLOCK",
+    "file": "scripts/api-review.test.js",
+    "line": 110
+  },
+  {
+    "group": "API",
+    "name": "local HTTP POST /api/review (storage stub): AUTH-001-RISK",
+    "file": "scripts/api-review.test.js",
+    "line": 120
+  },
+  {
+    "group": "API",
+    "name": "local HTTP POST /api/review (storage stub): AUTH-002-RISK",
+    "file": "scripts/api-review.test.js",
+    "line": 120
+  },
+  {
+    "group": "API",
+    "name": "local HTTP POST /api/review (storage stub): SCOPE-001-RISK",
+    "file": "scripts/api-review.test.js",
+    "line": 120
+  }
+]
